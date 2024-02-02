@@ -1,6 +1,6 @@
 # Task_2_AK
 
-Projecect used tailwind
+Project usees tailwind https://tailwindcss.com/docs/installation
 to compile it use:
 
 npm install -D tailwindcss
