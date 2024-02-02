@@ -4,7 +4,7 @@ To see live page go to:
 
 https://aigaktask.web.app/
 
-Project usees tailwind https://tailwindcss.com/docs/installation
+Project uses tailwind https://tailwindcss.com/docs/installation
 to compile it use:
 
 npm install -D tailwindcss
